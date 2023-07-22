@@ -1,6 +1,3 @@
-![Web - Admin - Lịch làm việc ](https://github.com/buingocmya/ElderCare/assets/81601941/31a33df8-5d93-4b9f-9667-5268feb9080b)
-![Uploading Web - Admin - Lịch làm việc (add).png…]()
-![Web - Admin - Thống kê công việc](https://github.com/buingocmya/ElderCare/assets/81601941/a3faf648-0d56-4437-a775-f7be48da966b)
 # ElderCare
 Eldercare is a system for managing staff who provide in-home care for the elderly
 
@@ -8,13 +5,13 @@ Homepage
 ![Web - Homepage](https://github.com/buingocmya/ElderCare/assets/81601941/ef0b8924-6142-4ddf-a98d-7b750dd11cca)
 
 Sign-in
-![Uploading Web - Sign in.png…]()
+![Web - Sign in](https://github.com/buingocmya/ElderCare/assets/81601941/6c6721f5-5a3e-4cb4-beca-59d37425680d)
 
 Calendar
-![Uploading Web - Admin - Lịch làm việc .png…]()
+![Web - Admin - Lịch làm việc ](https://github.com/buingocmya/ElderCare/assets/81601941/83e2a2c1-3750-4a25-966f-9bd3096157ce)
 
 Add Calendar
-![Uploading Web - Admin - Lịch làm việc (add).png…]()
+![Web - Admin - Lịch làm việc (add)](https://github.com/buingocmya/ElderCare/assets/81601941/91266a65-8a5e-45b0-8326-09d19347a52a)
 
 Statistics
-![Uploading Web - Admin - Thống kê công việc.png…]()
+![Web - Admin - Thống kê công việc](https://github.com/buingocmya/ElderCare/assets/81601941/fef0b928-3448-4b06-b5f1-8e70a0b9ddcd)
